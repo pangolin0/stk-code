@@ -26,7 +26,7 @@ To build SuperTuxKart from source, you'll need to install the following packages
 * jpeg (libjpeg-turbo-devel)
 * SDL2 (libsdl2-devel)
 
-Fedora command:
+RPM Based Distributions (Fedora, RHEL, etc.) command:
 
 ```bash
 sudo dnf install @development-tools angelscript-devel \
